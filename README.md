@@ -5,7 +5,7 @@ Via Regina, on the West coast of Lake Como in the Northernmost part of Italy has
 
 ## Requirements
 
-### Install npm and Node.js
+### Install Node.js and npm
 ```
 sudo apt install nodejs-legacy
 sudo apt install npm
@@ -21,6 +21,7 @@ sudo npm install -g cordova
 cordova platform add android
 cordova platform add ios
 cordova platform add browser 
+...
 ```
 
 ### Add plugins
